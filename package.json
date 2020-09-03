@@ -10,6 +10,7 @@
     "redux-saga"
   ],
   "description": "Personal template for Create React App.",
+  "main": "template.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/mat-sz/cra-template-mat-sz.git"
