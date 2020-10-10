@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.scss';
 
-const App: React.FC = () => {
+export const App: React.FC = () => {
   return (
     <Router>
       <div className="app">
@@ -15,5 +15,3 @@ const App: React.FC = () => {
     </Router>
   );
 };
-
-export default App;
